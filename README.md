@@ -36,3 +36,13 @@ Thanks,
 
 
 Toby
+
+ps, Yes, the code is godawfully written and needs a huge amount of editing. As a published author (I had to get that in somewhere, didn't I? Hic Dragones are my publisher, since you asked) I know the value of leaving a first draft for a couple of months and coming back to it, fresh. Github just seemed the best place to store it, in the meantime.
+This codebase needs - in the least- editing for:
+1) style
+2) deletion of unnecessary code
+3) proper annotation
+4) accessibility
+5) security
+
+In the two months, I'm sure I'll think of a lot more...
