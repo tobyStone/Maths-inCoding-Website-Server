@@ -42,7 +42,8 @@ This codebase needs - in the least- editing for:
 1) style
 2) deletion of unnecessary code
 3) proper annotation
-4) accessibility (caniuse, modernizer...)
-5) security
+4) accessibility
+5) browser fallback (caniuse, modernizer...)
+6) security
 
 In the two months, I'm sure I'll think of a lot more...
