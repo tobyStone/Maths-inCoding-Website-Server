@@ -43,7 +43,7 @@ This codebase needs - in the least- editing for:
 2) deletion of unnecessary code
 3) proper annotation
 4) accessibility
-5) browser fallback (caniuse, modernizer...)
+5) browser fallback (caniuse, modernizr...)
 6) security
 
 In the two months, I'm sure I'll think of a lot more...
