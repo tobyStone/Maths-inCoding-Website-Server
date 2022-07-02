@@ -45,5 +45,6 @@ This codebase needs - in the least- editing for:
 4) accessibility
 5) browser fallback (caniuse, modernizr...)
 6) security
+7) API Documentation (YUIDoc)
 
 In the two months, I'm sure I'll think of a lot more...
