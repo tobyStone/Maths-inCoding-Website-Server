@@ -12,18 +12,18 @@ The website presents the six areas of the maths curriculum. Maths teachers/tutor
 Here's a video on the site in action:
 
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/run%20through%20of%20facility.gif)
+![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/run%20through%20of%20facility.gif)
 
 
 In the footer are links to how to set up the different platforms used in the videos. There is also a feedback form in case any content creator wants to get in touch. 
 
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/feedback%20form.gif)
+![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/feedback%20form.gif)
 
 
 Again, the details are uploaded to MongoDB
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/feedback%20to%20mongodb.gif)
+![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/feedback%20to%20mongodb.gif)
 
 This prototype is designed to see if the structure and the general design of the site make sense.
 
