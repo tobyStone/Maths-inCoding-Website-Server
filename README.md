@@ -27,24 +27,24 @@ Again, the details are uploaded to MongoDB
 
 This prototype is designed to see if the structure and the general design of the site make sense.
 
-The next iteration will have videos in more of the choices, with maths questions in each, and these questions will be at more relevant stages in the videos. The site will then be tested on classes.
+The next iteration will have videos in more of the choices, with maths questions in each, and these questions will be at more relevant stages in the videos. Khan Academy will also be added as a platform on which the students can code. This, along with Scratch, will be provided with the majority of the videos as a risk for the site is that teachers won't know how to support the students who are coding. Scratch and Khan provide great entry level access for both adults and chidlren. Roblox is probably going to be the highest level specification, for three reasons. 
+
+1) the game is live and so has safeguarding issues (and is often barred by school firewall providers) so will have so be sand-boxed and used as a tool to teach online safety
+2) the game is live and so Roblox's own secure setup means the coding is split into three areas and so harder to code.
+3) few teachers know how to code Roblox Lua and so support in lesson will be difficult.
+
+A remedy to the last two of these issues (as well as pupils coding command line Python and C++) will be to provide courses for teachers to support this platform. This could well be a good way to expand the business into inset days. Supporting children in coding is only possible if schools have staff who can do the same. However, in summary, the site will use Roblox and the Unreal Engine as an exciting 'end-game' for children to get into it, but will be mainly positioned toward videos on Scratch, Khan, and command-line coding.
+
+Once all this is set up, the site will then be tested one to one via an onlien tutoring service, and then on classes.
 
 After this, any changes in design will be made, along with setting up a 'sign up/sign in' pair of links in the header of the site. This will allow a teacher to sign in as a 'superuser' and track the scores of their students. This will enable teachers/tutors to see if anybody needs extra support, or which pupils may be surreptitiously skipping the questions.
 
 After this beta testing, there (no doubt) will be further changes made to the design. Feel free to share any you can think of before all of this process continues (it may well save me a lot of time).
+
 Thanks,
 
 
 Toby
 
-ps, Yes, the code needs a huge amount of editing. As a published author (I had to get that in somewhere, didn't I? Hic Dragones are my publisher, since you asked) I know the value of leaving a first draft for a couple of months and coming back to it, fresh. Github just seemed the best place to store it, in the meantime.
-This codebase needs - in the least- editing for:
-1) style
-2) deletion of unnecessary code
-3) proper annotation
-4) accessibility
-5) browser fallback (caniuse, modernizr...)
-6) security
-7) API Documentation (YUIDoc)
 
-In the two months, I'm sure I'll think of a lot more...
+
