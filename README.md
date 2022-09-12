@@ -3,7 +3,7 @@ This is the prototype for a website for learning maths through coding computer g
 
 
 
-![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/front%20page%20maths%20inCoding.gif)
+![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/front%20page%20maths%20inCoding.gif)
 
 
 
