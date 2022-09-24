@@ -47,4 +47,11 @@ Thanks,
 Toby
 
 
+update 23/09/22... following sharing this with an web designer/IT professional, I have some development points to work on.
+
+1) a more complete design including navigation around the site, legal notices, About, etc... This would include turning the pop-up windows into a full replacement of the page.
+2) toward this redesign, and as there would be several full pages, a templating download (Bootstrap, Moustache..?) to minimise the code and maintain a 'look'.
+3) a deployment pipeline using soemthing like https://github.com/github/deploy-nodejs
+4) bug maintence once deployed via, potentially, https://sentry.io   
+
 
